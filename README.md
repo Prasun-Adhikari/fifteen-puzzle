@@ -7,7 +7,7 @@ In this case, I was attempting to solve the version of the puzzle that was a par
 This involved taking input and output from a phone screen as well as finding the right steps to actually solve the puzzle.
 
 ## Video of the 3x3 case (8 puzzle) being solved
-<video src='assets/3x3.gif' width='600'>
+<video src='assets/3x3.webm' width='600'>
 
 ## Video of the 5x5 case (24 puzzle) being solved
-<video src='assets/5x5.gif' width='600'>
+<video src='assets/5x5.webm' width='600'>
